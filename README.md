@@ -1,4 +1,4 @@
-# Road to Data Science I (Regression Problem)
+# Road to Data Scientist I (Regression Problem)
 
 In this project, a machine learning regression model has been developed to predict IGN scores for video games based on features such as genre, release year, launch platform, and potential score phrases such as 'Good' or 'Bad,' which could be provided by different video game reviewers.
 
